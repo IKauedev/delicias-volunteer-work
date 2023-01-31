@@ -1,141 +1,133 @@
+@import url('./Produtos.css');
+
 /*reposive*/
 
+
 /*começo Titulos*/
+
 .main-title {
-	color: #ffa500;
-	font-size: 40px;
-	text-align:center;
-	margin: 0 0 20px 0;
-	font-family:"Berlin Sans FB Demi",Arial;
+    color: #ffa500;
+    font-size: 40px;
+    text-align: center;
+    margin: 0 0 20px 0;
+    font-family: "Berlin Sans FB Demi", Arial;
 }
+
+
 /* Fim Titulos*/
 
 .title {
-	color:#000000;
-}
-.social {
-	height:70px;
-	width:70px;
-	margin-right:80px;
+    color: #000000;
 }
 
+.social {
+    height: 70px;
+    width: 70px;
+    margin-right: 80px;
+}
 
 .nav-link {
-	color:#000000;
+    color: #000000;
 }
 
-
 .entre {
-	color:#000000;
+    color: #000000;
 }
 
 p {
-	color:#000000;
+    color: #000000;
 }
 
 .span {
-	color:#000000
+    color: #000000
 }
 
 .contact-tile {
-	color:#000000;
+    color: #000000;
 }
 
 .li {
-	color:#000000;
+    color: #000000;
 }
 
 .img-thumbnail {
-
-    height:60px;
-    width:60px;
+    height: 60px;
+    width: 60px;
 }
 
+
 /*icones instagram e whats*/
+
 .insta {
-	height: 100px;
-	width:100px;
-	margin-left: 90px;
+    height: 100px;
+    width: 100px;
+    margin-left: 90px;
 }
 
 .imgroda {
-	height: 100px;
-	width: 100px;
-	margin:0px;
-	padding:0px;
-	margin-left: 90px;
+    height: 100px;
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 90px;
 }
+
+
 /*icones instagram e whats*/
 
 
-
 /*Configuraçao dos cards*/
-.card {
-	width:560px;
-	height:560px;
-}
 
+.card {
+    width: 560px;
+    height: 560px;
+}
 
 
 /*fim da configuraçao*/
 
+
 /*Rodape*/
 
 p {
-	color:#000000;
+    color: #000000;
     font-size: 21px;
 }
-h3 {
-	color:#FFFFFF;
-}
 
+h3 {
+    color: #FFFFFF;
+}
 
 .Central {
-	color:#000
+    color: #000
 }
+
 
 /*Contato */
 
 .content {
- 
-display:flex;justify-content: center
-
+    display: flex;
+    justify-content: center
 }
 
 .contato {
-	width: 100%;
-	max-width: 500px;
-
+    width: 100%;
+    max-width: 500px;
 }
 
-.form{
-
-	display: flex;
-	flex-direction:column
+.form {
+    display: flex;
+    flex-direction: column
 }
 
 .field {
-	padding: 10px;
-	margin-bottom: 15px;
-	border:1px solid #000;
-	border-radius:5px;
-	font-family: Arial, Helvetica, sans-serif;
-
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
 .textares {
-	height: 150px;
+    height: 150px;
 }
-
-
-/*Fim do rodape*/
-
-
-
- {
-
-
-
-	}
-
-
-

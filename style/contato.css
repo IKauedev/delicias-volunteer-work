@@ -1,115 +1,129 @@
-
+@import url('./contato.css');
 * {
-	padding:0px;
+    padding: 0px;
 }
-
-
-
-
 
 
 /*html5 semantics tags
 article, aside, figure, footer, header, hgroup, menu, nav, section
 { display: block; }*/
 
+
 /* light css reset */
-* { margin : 0; padding : 0; }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
 /*h2, h3, h4, h5, p, ul, ol  { margin : 0 20px; padding : .5em 0; }
 img { border: 0px;}
 
 /* =page level container */
-#container {/*Container que contem o site */
+
+#container {
+    /*Container que contem o site */
     margin: 0px auto 0px auto;
     width: 960px;
-    background:#CAE1FF;
+    background: #CAE1FF;
 }
 
-#corpo { /*Div Corpo do site  possui a section*/
+#corpo {
+    /*Div Corpo do site  possui a section*/
     margin: 1px;
     padding-top: 0px;
     padding-bottom: 20px;
-    height: 600px;      
+    height: 600px;
 }
-section { /*Div Corpo do site  possui o cabecalho do artigo, o corpo do artigo e o cabecalho*/
-    margin:0px auto 0px auto;
-    width:958px;
-    height:600px;
-    float:left;
-    background:#CAE1FF;
-    margin-left:0px;  
+
+section {
+    /*Div Corpo do site  possui o cabecalho do artigo, o corpo do artigo e o cabecalho*/
+    margin: 0px auto 0px auto;
+    width: 958px;
+    height: 600px;
+    float: left;
+    background: #CAE1FF;
+    margin-left: 0px;
 }
+
 .artigo {
-    margin:0px auto 0px auto;
-    width:958px;
-    height:350px;
-    float:left;
-    background:#CAE1FF;
-    margin:0px;  
+    margin: 0px auto 0px auto;
+    width: 958px;
+    height: 350px;
+    float: left;
+    background: #CAE1FF;
+    margin: 0px;
 }
-.txtarea {/*Define a altura do input*/
+
+.txtarea {
+    /*Define a altura do input*/
     /*background-color:#B0E0E6;*/
     height: 40px;
     font: 18px georgia, sans-serif;
-    color:#cdc115;
+    color: #cdc115;
 }
 
+
 /*Rodape*/
+
 .what {
-	height:70px;
-	width:70px;
+    height: 70px;
+    width: 70px;
 }
 
 .social {
-	height:70px;
-	width:70px;
-	margin-right:80px;
+    height: 70px;
+    width: 70px;
+    margin-right: 80px;
 }
 
+
 /*icones instagram e whats*/
+
 .insta {
-	height: 100px;
-	width:100px;
-	margin-left: 100px;
-	
-	
-	
-	
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
 }
 
 .imgroda {
-	height: 100px;
-	width: 100px;
-	margin:0px;
-	padding:0px;
-	margin-left: 100px;
-	
-	
-	
+    height: 100px;
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 100px;
 }
+
+
 /*icones instagram e whats*/
 
 .link {
-	color:#0d6efd;
+    color: #0d6efd;
 }
+
 
 /*fim do rodape*/
 
-/*nav bar*/
-.img-thumbnail {
 
-    height:60px;
-    width:60px;
+/*nav bar*/
+
+.img-thumbnail {
+    height: 60px;
+    width: 60px;
 }
 
 li {
-	color:#000000;
+    color: #000000;
 }
 
 .navbar-brand {
-    color:#000000;
+    color: #000000;
 }
 
 .nav-link {
-    color:#000;
+    color: #000;
 }
+
+
 /*fim da nav bar*/

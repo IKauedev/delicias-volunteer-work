@@ -1,62 +1,68 @@
+@import url('./Cardapio.css');
 
 /*Começo da logo*/
 
 .img-thumbnail {
-
-    height:60px;
-    width:60px;
+    height: 60px;
+    width: 60px;
 }
+
+
 /*Fim da Logo
 
 
 /*icones instagram e whats Rodape*/
+
 .insta {
-	height: 100px;
-	width:100px;
-	margin-left: 90px;
+    height: 100px;
+    width: 100px;
+    margin-left: 90px;
 }
 
 .social {
-	height:70px;
-	width:70px;
-	margin-right:80px;
+    height: 70px;
+    width: 70px;
+    margin-right: 80px;
 }
 
 b {
-	color:#ffa500;
-	font-family:"Berlin Sans FB Demi",Arial;
+    color: #ffa500;
+    font-family: "Berlin Sans FB Demi", Arial;
 }
 
 .imgroda {
-	height: 100px;
-	width: 100px;
-	margin:0px;
-	padding:0px;
-	margin-left: 90px;
-
+    height: 100px;
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 90px;
 }
-.contatos{
-	color: #000000;
-	font-size:20px; 
+
+.contatos {
+    color: #000000;
+    font-size: 20px;
 }
 
 .nav-link {
-	color:#000000;
+    color: #000000;
 }
 
 .entre {
-	color:#000000;
+    color: #000000;
 }
 
 
 /*icones instagram e whats Rodape*/
 
-/*começo Titulos*/
-.main-title {
-	color: #444;
-	font-size: 40px;
-	text-align:center;
-	margin: 0 0 20px 0;
-}
-/* Fim Titulos*/
 
+/*começo Titulos*/
+
+.main-title {
+    color: #444;
+    font-size: 40px;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+
+/* Fim Titulos*/
