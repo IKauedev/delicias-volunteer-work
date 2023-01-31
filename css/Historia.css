@@ -1,0 +1,37 @@
+/*começo Titulos*/
+
+.main-title {
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.main-title {
+    color: #ffa500;
+    font-family: "Berlin Sans FB Demi", Arial;
+}
+
+
+/*icones instagram e whats*/
+
+footer {
+    margin-top: 50px;
+}
+
+.insta {
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+}
+
+.imgroda {
+    height: 100px;
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 100px;
+}
+
+
+/*icones instagram e whats*/

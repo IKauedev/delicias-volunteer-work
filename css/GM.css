@@ -1,0 +1,241 @@
+    * {
+        padding: 0px;
+        margin: 0;
+        box-sizing: border-box;
+        overflow-x: hidden;
+    }
+    
+    .carrosel {
+        color: white;
+        text-shadow: black 0.1em 0.1em 0.2em
+    }
+    
+    .TCC1 {
+        margin-right: 0px;
+        line-height: 36px;
+        text-indent: 2em;
+    }
+    
+    .TCC2 {
+        line-height: 39px;
+        text-indent: 2em;
+        margin-right: 10px;
+    }
+    
+    .TCC3 {
+        line-height: 39px;
+        text-indent: 2em;
+        margin-right: 10px;
+    }
+    /*Formulario*/
+    
+    #news-area {
+        text-align: center;
+        background-color: #FFFFFF;
+    }
+    
+    .what {
+        height: 70px;
+        width: 70px;
+    }
+    
+    .social {
+        height: 70px;
+        width: 70px;
+        margin-right: 80px;
+    }
+    
+    .p {
+        text-decoration: none;
+    }
+    
+    .i {
+        height: 70px;
+        width: 70px;
+    }
+    
+    .conteudo {
+        display: table;
+    }
+    
+    .imagem {
+        display: table-cell;
+        float: right;
+    }
+    
+    .texto {
+        display: table-cell;
+        margin-left: 30px;
+    }
+    
+    .title {
+        color: #FFFFFF;
+    }
+    
+    .A {
+        font-size: 20px;
+        color: 000000;
+    }
+    
+    .link {
+        color: #0d6efd;
+    }
+    
+    #news-area p {
+        font-size: 18px;
+        margin-bottom: 40px;
+        color: #000000;
+    }
+    
+    #email-input {
+        border-radius: 0;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border: 1px solid #000000;
+        display: inline;
+        box-sizing: border-box;
+        width: 40%;
+        height: 40%;
+    }
+    
+    #news-btn {
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border: 1px solid #0d48fc;
+        background-color: #0d48fc;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        height: 36px;
+        padding: 0 30px;
+        margin-left: -130px;
+        position: absolute;
+        transition: .5s;
+    }
+    /*Fim do formulario*/
+    /*começo Titulos*/
+    
+    .main-title {
+        color: rgb(0, 0, 0);
+        font-size: 40px;
+        text-align: center;
+        margin: 0 0 20px 0;
+    }
+    /* Fim Titulos*/
+    
+    .card {
+        width: 550px;
+        height: 550px;
+    }
+    
+    .entre {
+        color: #000;
+    }
+    
+    .main-title {
+        color: #ffa500;
+        font-family: "Berlin Sans FB Demi", Arial;
+    }
+    
+    .numero {
+        color: #FFFFFF;
+    }
+    
+    h3 {
+        color: #000000;
+    }
+    
+    h5 {
+        color: #FFFFFF;
+        font-size: 80px;
+    }
+    
+    li {
+        color: #000000;
+    }
+    /*icones instagram e whats*/
+    
+    .insta {
+        height: 100px;
+        width: 100px;
+        margin-left: 100px;
+    }
+    
+    .imgroda {
+        height: 100px;
+        width: 100px;
+        margin: 0px;
+        padding: 0px;
+        margin-left: 100px;
+    }
+    /*icones instagram e whats*/
+    
+    .produtos {
+        color: #000000;
+    }
+    
+    .title {
+        color: #000;
+    }
+    
+    .card {
+        margin-left: 80px;
+    }
+    
+    .navbar-brand {
+        color: #000000;
+    }
+    
+    .nav-link {
+        color: #000;
+    }
+    
+    .container-fluid {
+        padding: 0;
+    }
+    
+    #mainSlider .carousel-caption h5 {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+    
+    H5 {
+        color: #000;
+        font-size: 100px;
+    }
+    
+    p {
+        color: #000;
+    }
+    
+    .mx-auto d-block {
+        border: 50px;
+    }
+    
+    .TCC {
+        color: #000000;
+        text-indent: 1em;
+        line-height: 19px;
+    }
+    
+    p {
+        font-size: 20px;
+    }
+    
+    .img-thumbnail {
+        height: 60px;
+        width: 60px;
+    }
+    
+    .text {
+        color: #000000;
+    }
+    
+    h1 {
+        font-size: 30px;
+        font-family: Times New Roman, Arial;
+        color: #FFFFFF;
+        margin-top: 60px;
+        text-decoration: underline;
+    }
